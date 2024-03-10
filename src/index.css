@@ -1,0 +1,10 @@
+*.html {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(rgb(206, 91, 91), rgb(85, 5, 18));
+  background-repeat: no-repeat;
+}
